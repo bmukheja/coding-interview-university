@@ -666,17 +666,17 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
-    - [ ] 2s and 1s complement
+    - [x] 2s and 1s complement
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-    - [ ] count set bits
+    - [x] count set bits
         - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
         - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
-    - [ ] round to next power of 2:
+    - [x] round to next power of 2:
         - [Round Up To Next Power Of Two](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
-    - [ ] swap values:
+    - [x] swap values:
         - [Swap](http://bits.stephan-brumme.com/swap.html)
     - [ ] absolute value:
         - [Absolute Integer](http://bits.stephan-brumme.com/absInteger.html)
